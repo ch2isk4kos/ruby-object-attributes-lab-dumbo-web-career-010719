@@ -1,6 +1,6 @@
 class Dog
 
-  def names=(name)
+  def name=(name)
     @name = name
   end
 
@@ -11,4 +11,3 @@ class Dog
 end
 
 snoop = Dog.new
-
