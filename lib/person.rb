@@ -5,7 +5,7 @@ class Person
     @name = name
   end
 
-  
+
 
   #getter
   def name
